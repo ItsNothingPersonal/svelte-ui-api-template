@@ -1,0 +1,14 @@
+{
+	"recommendations": [
+		"esbenp.prettier-vscode",
+		"svelte.svelte-vscode",
+		"rangav.vscode-thunder-client",
+		"austenc.tailwind-docs",
+		"bradlc.vscode-tailwindcss",
+		"ms-playwright.playwright",
+		"mhutchie.git-graph",
+		"donjayamanne.githistory",
+		"dbaeumer.vscode-eslint",
+		"csstools.postcss"
+	]
+}
